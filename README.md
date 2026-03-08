@@ -9,3 +9,4 @@ Score Review: See your performance at the end.
 🛠️ Built With:
 Languages: HTML5, CSS3, JavaScript
 Editor: Spck Editor (Mobile)
+🎮 Play the Game here:[Click to Play](https://25a31a4474.github.io/Tech-quiz-game/)
